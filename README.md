@@ -226,6 +226,3 @@ This intelligent, multi-faceted approach allows the application to act as a true
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
